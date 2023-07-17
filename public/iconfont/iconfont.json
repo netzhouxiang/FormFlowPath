@@ -1,0 +1,93 @@
+{
+  "id": "4166523",
+  "name": "蔓延审批",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "25405852",
+      "name": "多行输入框",
+      "font_class": "dh",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "30155063",
+      "name": "日期区间",
+      "font_class": "rqqj",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "629079",
+      "name": "数字输入框",
+      "font_class": "sz",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "657335",
+      "name": "分期－身份证",
+      "font_class": "sfz",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "1120965",
+      "name": "多选框",
+      "font_class": "dxk",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "1766259",
+      "name": "符号-日期-线性",
+      "font_class": "riqi",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "9495524",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "11121499",
+      "name": "单选框",
+      "font_class": "danxuankuang",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "12753043",
+      "name": "图片",
+      "font_class": "tp",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "15344470",
+      "name": "说明",
+      "font_class": "shuoming",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "21841746",
+      "name": "16-线性-输入框",
+      "font_class": "xianxing",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "23500946",
+      "name": "附件",
+      "font_class": "fujian",
+      "unicode": "e869",
+      "unicode_decimal": 59497
+    }
+  ]
+}
